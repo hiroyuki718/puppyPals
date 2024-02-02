@@ -1,0 +1,3 @@
+[submodule "puppyPals"]
+	path = puppyPals
+	url = https://github.com/hiroyuki718/puppyPals.git
